@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chukwunweike Phone Accessories & Gadgets",
+      "hasCanvas": false,
+      "bodyTextLen": 2058,
+      "bodyTextHash": "4b76c6fa7f7fd5d14e2feb31e4e579d068c8785ed917a96496ba0bd868c49db6",
+      "bodyTextPrefix": "Shop 3, City View Mall · Asaba, Delta State WhatsApp +234 913 20",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chukwunweike Phone Accessories & Gadgets",
+      "hasCanvas": false,
+      "bodyTextLen": 2030,
+      "bodyTextHash": "b58529892f1948cca79e9d66e51bb9946a70f32983323f89222f5ae5430f20cb",
+      "bodyTextPrefix": "Shop 3, City View Mall · Asaba, Delta State WhatsApp +234 913 20",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
